@@ -356,8 +356,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Primetrade Team**
-- Website: [primetrade.ai](https://primetrade.ai)
-- Email: contact@primetrade.ai
+- Website: https://primetrade-phi.vercel.app/
+- Email: shwetankpal582@gmail.com
 
 ## 🙏 Acknowledgments
 
